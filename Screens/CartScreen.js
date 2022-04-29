@@ -100,7 +100,7 @@ const CartScreen = ({ navigation }) => {
 
         </View>
       </View>
-
+   {/* add coment */}
 
     </ScrollView>
   )
